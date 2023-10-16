@@ -16,12 +16,14 @@ This is a TypeScript script that utilizes the Inquirer package to prompt the use
    `bash`
    `npm install inquirer`
    `npm install @types/inquirer --save-dev`
+   or simply
+   `npm i`
 
-3. Compile the TypeScript code:
+4. Compile the TypeScript code:
     `tsc removeSpace.ts`
-4. Run the script:
+5. Run the script:
     `node removeSpace.js`
-5. Follow the on-screen instructions to input text, and the script will remove spaces from the user's input.
+6. Follow the on-screen instructions to input text, and the script will remove spaces from the user's input.
 
 
 ## Usage
